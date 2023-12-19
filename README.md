@@ -108,11 +108,11 @@ Isso significa que você tem total liberdade para copiar, modificar, distribuir 
 Se tiver alguma dúvida, sugestão ou precisar de suporte, sinta-se à vontade para entrar em contato com os criadores do projeto:
 
 - Patrick Camara Araujo
-  - E-mail: [e-mail1@example.com](mailto:patrick.araujo@discente.ufma.com)
+  - E-mail: [patrick.araujo@discente.ufma.com](mailto:patrick.araujo@discente.ufma.com)
   - GitHub: [@PatrickAraujoD](https://github.com/PatrickAraujoD)
 
 - Vitor Gabriel Rodrigues Sousa
-  - E-mail: [e-mail2@example.com](mailto:vitor.grs@discente.ufma.com)
+  - E-mail: [vitor.grs@discente.ufma.com](mailto:vitor.grs@discente.ufma.com)
   - GitHub: [@vitorgrs](https://github.com/vitorgrs)
 
 Não hesite em nos contatar! Estamos aqui para ajudar.
