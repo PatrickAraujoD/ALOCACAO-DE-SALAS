@@ -39,7 +39,7 @@ Após a execução do programa, você será apresentado a uma interface gráfica
 ![Menu Principal](imagens/menu_principal.png)
 
 1. **Inserir Solicitação:**
-   1. **Inserir Solicitação:**
+  
    - Ao clicar neste botão, o usuário será solicitado a escolher o tipo de solicitação:
      
      ![Tela de Escolha](imagens/escolher_o_tipo_de_solicitação.png)
