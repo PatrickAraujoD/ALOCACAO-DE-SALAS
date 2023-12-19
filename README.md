@@ -10,7 +10,7 @@ Um sistema desenvolvido para facilitar a alocação eficiente de salas para um d
   
 - **Alocar Espaço:** Usa algoritmos de modo a facilitar a alocação de espaços sem que tenha nenhum conflito de horario
   
-- **Salvar Relátorios:** O programa também permite que o usuário possa deixar as alocações salvas nos relátorios
+- **Salvar Relátorios:** O programa também permite que o usuário possam deixar as alocações salvas nos relátorios
   
 - **Dados Salvos:** Após o fechamento do sistema, os itens ja alocados continuaram salvos em arquivos de modo que ao abrir ele consiga puxar todas as alterações feitas anteriomente
 ## Instruções de Instalação
