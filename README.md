@@ -95,13 +95,8 @@ Após a execução do programa, você será apresentado a uma interface gráfica
    - O usuário também terão a opção de apagar os relatórios já existentes no sistema.
      
 9. **Dados Salvos:**
+    
    - Após o fechamento do programa, os dados previamente alocados permanecerão salvos, sendo recuperados na próxima execução.
-     
-## Licença
-
-Este projeto é licenciado sob a [Licença MIT](LICENSE).
-
-Isso significa que você tem total liberdade para copiar, modificar, distribuir e utilizar o código deste projeto para qualquer finalidade, mesmo comercialmente. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
 
 ## Contato
 
