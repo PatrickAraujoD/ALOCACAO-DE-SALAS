@@ -96,7 +96,7 @@ Após a execução do programa, você será apresentado a uma interface gráfica
      
 9. **Dados Salvos:**
    - Após o fechamento do programa, os dados previamente alocados permanecerão salvos, sendo recuperados na próxima execução.
-   - 
+     
 ## Licença
 
 Este projeto é licenciado sob a [Licença MIT](LICENSE).
