@@ -1,0 +1,8 @@
+EVENTUAL;2023;2023.2;Medicina;BIOLOGIA;30;35T23;10/05/2023;05/08/2023
+EVENTUAL;2022;2022.2;Direito;direito penal;30;45M12;10/10/2023;05/11/2023
+EVENTUAL;2022;2022.1;Administração;introdução a administração;40;45M123;22/02/2022;05/03/2022
+EVENTUAL;2022;2022.1;Administração;gerencia;40;45M3;22/02/2022;05/03/2022
+FIXA;2022;2022.1;Direito;antropologia;25;23M12
+FIXA;2023;2032.2;Ciência da Computação;Algoritmo;30;24T45
+FIXA;2023;2032.2;Ciência da Computação;Calculo 1;25;35T23
+FIXA;2023;2023.2;Medicina;anatomia;30;24T45

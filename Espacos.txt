@@ -1,0 +1,3 @@
+sala 107;paulo freire;30
+sala 303;paulo freire;30
+AUDITORIO;CCET;90
